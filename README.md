@@ -11,3 +11,4 @@ Maybe I should learn rust
 I want to but I need a job first
 fake commits huh?
 I wanna learn Rust
+It will be so cool
