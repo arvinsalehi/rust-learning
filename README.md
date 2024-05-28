@@ -17,13 +17,18 @@ To get started with my Rust learning journey:
 3. **Explore the Contents**: Once cloned, explore the contents to find tutorials, examples, and exercises. You'll find organized directories covering different aspects of Rust programming.
 
 ### tips
+- Inappropriate language in use in scripts. BE CAREFUL :) 
 - OD = Original Docs link
 
 ## Contents
 
-- **[Hello World](https://github.com/arvinsalehi/rust-learning/tree/main/hello_world)**: The first step. [Orginal documentation](https://doc.rust-lang.org/book/ch01-02-hello-world.html).
-- **[Hello Cargo](https://github.com/arvinsalehi/rust-learning/tree/main/hello_cargo)**: Introducing Your best friend. [Original documentation](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+- **[Hello World](https://github.com/arvinsalehi/rust-learning/tree/main/hello_world)**: The first step. [OD](https://doc.rust-lang.org/book/ch01-02-hello-world.html).
+- **[Hello Cargo](https://github.com/arvinsalehi/rust-learning/tree/main/hello_cargo)**: Introducing Your best friend. [OD](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 - **[Guessing Game](https://github.com/arvinsalehi/rust-learning/tree/main/guessing_game)**: Fun practice. [OD](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+
+## OG References
+- **Youtube**
+  - [Let's Get Rusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&ab_channel=Let%27sGetRusty): A perfect starting point. I enjoyed it very much.
 ## License
 
 This repository is for personal learning purposes only and is not licensed for redistribution.
