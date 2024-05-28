@@ -19,3 +19,4 @@ AND Bithces
 Give me the green co
 Affirm didn't give me the job
 I'll apply more
+the best thing that happen is to get a software programming job
