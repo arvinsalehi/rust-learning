@@ -17,7 +17,7 @@ To get started with my Rust learning journey:
 3. **Explore the Contents**: Once cloned, explore the contents to find tutorials, examples, and exercises. You'll find organized directories covering different aspects of Rust programming.
 
 ### tips
-- ** OD = Original Docs link
+- OD = Original Docs link
 
 ## Contents
 
