@@ -18,7 +18,8 @@ To get started with my Rust learning journey:
 
 ### tips
 - Inappropriate language in use in scripts. BE CAREFUL :) 
-- OD = Original Docs link
+- OD = Original Docs link.
+- OG = Think of 2Pac in Rap industry.
 
 ## Contents
 
