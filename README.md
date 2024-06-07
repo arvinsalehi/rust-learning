@@ -1,24 +1,37 @@
-# rust-learning
-# day 1
-first commit -> shittty daaaaay
-second commit
-third commit
-I'm learning
-No changes Still need a job
-Still waiting for change
-This monitor is great
-Maybe I should learn rust
-I want to but I need a job first
-fake commits huh?
-I wanna learn Rust
-It will be so cool
-Like Batman
-I'm committing from Seneca King
-I neeeeeed JOOOOOOOOOOB 
-AND Bithces
-Give me the green co
-Affirm didn't give me the job
-I'll apply more
-the best thing that happen is to get a software programming job
-I don't know what should I do after that
-I'm getting my life togather 
+# Rust Learning Repository
+
+This repository is designed for my own learning journey with Rust programming language. Here, I'll be storing my code snippets, exercises, and notes as I progress. This repo is based on the documentation of [Rust](https://doc.rust-lang.org/book/)
+
+## Getting Started
+
+To get started with my Rust learning journey:
+
+1. **Install Rust**: If you haven't already, install Rust on your machine. You can do this by following the instructions on the official Rust website: [Install Rust](https://www.rust-lang.org/tools/install).
+
+2. **Clone this Repository**: Clone this repository to your local machine using the following command:
+
+    ```bash
+    git clone https://github.com/arvinsalehi/rust-learning.git
+    ```
+
+3. **Explore the Contents**: Once cloned, explore the contents to find tutorials, examples, and exercises. You'll find organized directories covering different aspects of Rust programming.
+
+### tips
+- Inappropriate language in use in scripts. BE CAREFUL :) 
+- OD = Original Docs link.
+- OG = Think of 2Pac in Rap industry.
+
+## Contents
+
+- **[Hello World](https://github.com/arvinsalehi/rust-learning/tree/main/hello_world)**: The first step. [OD](https://doc.rust-lang.org/book/ch01-02-hello-world.html).
+- **[Hello Cargo](https://github.com/arvinsalehi/rust-learning/tree/main/hello_cargo)**: Introducing Your best friend. [OD](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+- **[Guessing Game](https://github.com/arvinsalehi/rust-learning/tree/main/guessing_game)**: Fun practice. [OD](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+
+## OG References
+- **Youtube**
+  - [Let's Get Rusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&ab_channel=Let%27sGetRusty): A perfect starting point. I enjoyed it very much.
+## License
+
+This repository is for personal learning purposes only and is not licensed for redistribution.
+
+Happy coding!
