@@ -3,12 +3,6 @@ enum IpAddrKind {
     V6(String),
 }
 
-<<<<<<< HEAD
-fn route(ip_kind: IpAddrKind) {}
-fn main() {
-    let four = IpAddrKind::V4;
-    let home = IpAddrKind::V4(String.from("127.0.0.1"));
-=======
 struct IpAddr {
     addr: IpAddrKind,
 }
@@ -42,5 +36,4 @@ fn main() {
 
     let message: Message = Message::Write(String::from("Fuck you"));
     message.call();
->>>>>>> origin/Enums
 }
