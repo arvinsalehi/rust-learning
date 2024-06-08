@@ -4,8 +4,12 @@ struct User {
     smart: bool,
 }
 
-struct Color(i32,i32,i32);
-struct Point(i32,i32,i32);
+#[derive(Debug)]
+struct Color(i32, i32, i32);
+struct Point(i32, i32, i32);
+
+#[derive(Debug)]
+struct Rect(u32, u32);
 
 fn build_user(name: String) -> User {
     User {
@@ -15,6 +19,9 @@ fn build_user(name: String) -> User {
     }
 }
 
+fn rect_area(rect: &Rect) -> u32 {
+    rect.0 * rect.1
+}
 fn main() {
     let mut user1 = User {
         age: 23,
@@ -30,7 +37,22 @@ fn main() {
         smart: true,
         ..user2
     };
+    println!(
+        "user age: {} username: {} smart:{}",
+        user3.age, user3.name, user3.smart
+    );
 
-    println!("userage: {} username: {} smart:{}", user3.age, user3.name,user3.smart)
+    let color = Color(128, 128, 128);
+    let point = Point(128, 128, 128);
 
+    let rect: Rect = Rect(12, 13);
+    println!(
+        "Color is: ({}, {}, {}) and point is : ({},{},{})",
+        color.0, color.1, color.2, point.0, point.1, point.2
+    );
+
+    println!("Area of rect is: {}", rect_area(&rect));
+
+    dbg!(color);
+    dbg!(rect);
 }
