@@ -27,6 +27,7 @@ To get started with my Rust learning journey:
 - **[Hello Cargo](https://github.com/arvinsalehi/rust-learning/tree/main/hello_cargo)**: Introducing Your best friend. [OD](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 - **[Guessing Game](https://github.com/arvinsalehi/rust-learning/tree/main/guessing_game)**: Fun practice. [OD](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 - **[Structs](https://github.com/arvinsalehi/rust-learning/tree/main/structs)**: [OD](https://doc.rust-lang.org/book/ch05-00-structs.html)
+- **[Enums](https://github.com/arvinsalehi/rust-learning/tree/main/enums)**: [OD](https://doc.rust-lang.org/book/ch06-00-enums.html)
 
 ## OG References
 - **Youtube**
