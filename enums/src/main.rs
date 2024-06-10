@@ -1,3 +1,28 @@
+use core::fmt;
+
+enum PpSize {
+    Und,    // Undefiend
+    L12,    // less than 12 cm
+    B12t16, // Between 12 - 16 cm
+    M16,    // More than 16 (Considered Big Boy)
+}
+
+impl fmt::Display for PpSize {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match *self {
+            PpSize::Und => write!(f, "Undefined"),
+            PpSize::L12 => write!(f, "Less than 12 cm"),
+            PpSize::B12t16 => write!(f, "Between 12 - 16 cm"),
+            PpSize::M16 => write!(f, "More than 16 cm (Considered Big Boy)"),
+        }
+    }
+}
+enum MyFriends {
+    Arvin(PpSize),
+    Arman(PpSize),
+    Samin,
+}
+
 enum IpAddrKind {
     V4(String),
     V6(String),
@@ -15,6 +40,24 @@ enum Message {
 impl Message {
     fn call(&self) {
         println!("{:?}", self);
+    }
+}
+
+fn eval_friend_pp(friend: MyFriends) {
+    /// Give friend a propper PP based on their personality
+    /// # Args
+    ///
+    /// * `friend` - Duh !!!
+    match friend {
+        MyFriends::Arvin(ppSize) => println!(
+            "you have been given {} based on the person you are Congrats",
+            ppSize
+        ),
+        MyFriends::Arman(ppSize) => println!(
+            "you have been given {} based on the person you are Congrats",
+            ppSize
+        ),
+        MyFriends::Samin => println!("you don't have pp"),
     }
 }
 fn main() {
@@ -36,4 +79,9 @@ fn main() {
 
     let message: Message = Message::Write(String::from("Fuck you"));
     message.call();
+
+    let my_friend: MyFriends = MyFriends::Arvin(PpSize::B12t16);
+
+    eval_friend_pp(my_friend);
+
 }
