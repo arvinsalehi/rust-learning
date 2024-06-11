@@ -1,3 +1,4 @@
+option/target
 structs/target/debug/structs
 structs/target/debug/structs
 structs/target/debug/.fingerprint/structs-3c7750c8e02d0fac/dep-test-bin-structs
@@ -318,3 +319,18 @@ structs/target/debug/incremental/structs-230f3deg1cu6b/s-gx0361sq3a-1mgq05b.lock
 structs/target/debug/incremental/structs-230f3deg1cu6b/s-gx0361sq3a-1mgq05b-cdez4cp7t73622kheg6yc6hf/dep-graph.bin
 structs/target/debug/incremental/structs-230f3deg1cu6b/s-gx0361sq3a-1mgq05b-cdez4cp7t73622kheg6yc6hf/query-cache.bin
 structs/target/debug/incremental/structs-230f3deg1cu6b/s-gx0361sq3a-1mgq05b-cdez4cp7t73622kheg6yc6hf/work-products.bin
+enums/target/.rustc_info.json
+guessing_game/target/.rustc_info.json
+hello_cargo/target/.rustc_info.json
+option/Cargo.lock
+option/target/.rustc_info.json
+option/target/CACHEDIR.TAG
+option/target/debug/.cargo-lock
+option/target/debug/.fingerprint/option-3c488b67fe0f5364/invoked.timestamp
+option/target/debug/.fingerprint/option-3c488b67fe0f5364/output-test-bin-option
+option/target/debug/.fingerprint/option-3c488b67fe0f5364/test-bin-option
+option/target/debug/.fingerprint/option-3c488b67fe0f5364/test-bin-option.json
+option/target/debug/.fingerprint/option-a7119394f9dcbaf5/bin-option
+option/target/debug/.fingerprint/option-a7119394f9dcbaf5/bin-option.json
+option/target/debug/.fingerprint/option-a7119394f9dcbaf5/invoked.timestamp
+option/target/debug/.fingerprint/option-a7119394f9dcbaf5/output-bin-option
