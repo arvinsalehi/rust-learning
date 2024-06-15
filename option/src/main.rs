@@ -1,4 +1,3 @@
-use core::num;
 
 fn inc(x: Option<i32>) -> Option<i32> {
     match x {
@@ -24,4 +23,14 @@ fn main() {
     let number = Some(68);
     let number = inc(number);
     eval_num(number);
+
+    let config_max = Some(5u8);
+    if let Some(max) = config_max {
+        println!("max is {max}");
+    };
+
+    println!("the number is {}", number.unwrap());
+    if let Some(69) = number {
+        println!("Yes Bitch");
+    };
 }
