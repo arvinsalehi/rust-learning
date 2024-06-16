@@ -335,3 +335,8 @@ option/target/debug/.fingerprint/option-a7119394f9dcbaf5/bin-option
 option/target/debug/.fingerprint/option-a7119394f9dcbaf5/bin-option.json
 option/target/debug/.fingerprint/option-a7119394f9dcbaf5/invoked.timestamp
 option/target/debug/.fingerprint/option-a7119394f9dcbaf5/output-bin-option
+enums/target/.rustc_info.json
+guessing_game/target/.rustc_info.json
+hello_cargo/target/.rustc_info.json
+restaurant/target/.rustc_info.json
+structs/target/.rustc_info.json
