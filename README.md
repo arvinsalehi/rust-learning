@@ -28,6 +28,8 @@ To get started with my Rust learning journey:
 - **[Guessing Game](https://github.com/arvinsalehi/rust-learning/tree/main/guessing_game)**: Fun practice. [OD](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 - **[Structs](https://github.com/arvinsalehi/rust-learning/tree/main/structs)**: [OD](https://doc.rust-lang.org/book/ch05-00-structs.html)
 - **[Enums](https://github.com/arvinsalehi/rust-learning/tree/main/enums)**: [OD](https://doc.rust-lang.org/book/ch06-00-enums.html)
+- **[Options](https://github.com/arvinsalehi/rust-learning/tree/main/option)**: Same as Enums
+- **[Restaurant](https://github.com/arvinsalehi/rust-learning/tree/main/restaurant)**: Package management, crates, ... . [OD](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
 
 ## OG References
 - **Youtube**
