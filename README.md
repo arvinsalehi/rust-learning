@@ -30,6 +30,7 @@ To get started with my Rust learning journey:
 - **[Enums](https://github.com/arvinsalehi/rust-learning/tree/main/enums)**: [OD](https://doc.rust-lang.org/book/ch06-00-enums.html)
 - **[Options](https://github.com/arvinsalehi/rust-learning/tree/main/option)**: Same as Enums
 - **[Restaurant](https://github.com/arvinsalehi/rust-learning/tree/main/restaurant)**: Package management, crates, ... . [OD](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
+- **[Collections](https://github.com/arvinsalehi/rust-learning/tree/main/collections)** : Imagine doing Leetcode challenges with rust. Good Practice for ownerships and all that shit. [OD](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
 
 ## OG References
 - **Youtube**
