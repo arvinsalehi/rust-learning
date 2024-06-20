@@ -345,3 +345,8 @@ guessing_game/target/.rustc_info.json
 hello_cargo/target/.rustc_info.json
 restaurant/target/.rustc_info.json
 structs/target/.rustc_info.json
+enums/target/.rustc_info.json
+guessing_game/target/.rustc_info.json
+hello_cargo/target/.rustc_info.json
+restaurant/target/.rustc_info.json
+structs/target/.rustc_info.json
