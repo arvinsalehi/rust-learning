@@ -22,7 +22,7 @@ To get started with my Rust learning journey:
 - OG = Think of 2Pac in Rap industry.
 
 ## Contents
-
+- **[Leet Code](https://github.com/arvinsalehi/rust-learning/tree/main/leet_code/longest_consecutive_seq)**: After Collections, the best practice in my mind was to solve the leet code problems with rust. Yeah, I'm that Cool Bro :).
 - **[Hello World](https://github.com/arvinsalehi/rust-learning/tree/main/hello_world)**: The first step. [OD](https://doc.rust-lang.org/book/ch01-02-hello-world.html).
 - **[Hello Cargo](https://github.com/arvinsalehi/rust-learning/tree/main/hello_cargo)**: Introducing Your best friend. [OD](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 - **[Guessing Game](https://github.com/arvinsalehi/rust-learning/tree/main/guessing_game)**: Fun practice. [OD](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
