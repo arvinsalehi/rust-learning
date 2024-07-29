@@ -1,5 +1,6 @@
 use core::fmt;
 
+
 enum PpSize {
     Und,    // Undefiend
     L12,    // less than 12 cm
@@ -85,3 +86,23 @@ fn main() {
     eval_friend_pp(my_friend);
 
 }
+
+// enum IpAddrKind {
+//     V4(i32,i32,i32, i32),
+// }
+
+// struct IpAddr {
+//     kind:IpAddrKind,
+//     name: String
+// }
+// fn main() {
+//     let home_ip_addr = IpAddrKind::V4(127, 0, 0, 1);
+
+// }
+
+// fn route(ipaddr: Option<IpAddr>) -> Option<IpAddr>{
+//     match ipaddr {
+//         Some(ipaddr) => Some(ipaddr),
+//         (_) => None,
+//     }
+// }
