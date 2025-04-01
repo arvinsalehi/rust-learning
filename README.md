@@ -17,7 +17,6 @@ To get started with my Rust learning journey:
 3. **Explore the Contents**: Once cloned, explore the contents to find tutorials, examples, and exercises. You'll find organized directories covering different aspects of Rust programming.
 
 ### tips
-- Inappropriate language in use in scripts. BE CAREFUL :) 
 - OD = Original Docs link.
 - OG = Think of 2Pac in Rap industry.
 
